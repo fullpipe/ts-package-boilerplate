@@ -2,6 +2,8 @@
 
 ## Setup
 
+
+
 ## Publish
 
 ### Login
@@ -24,4 +26,7 @@ To patch
 
 ```
 npm version patch
+npm publish
 ```
+
+`version` command executes `git add ...` and `git push`, see `package.json`
