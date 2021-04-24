@@ -19,10 +19,12 @@ npm i
 npm run test
 ```
 
+## What's inside?
 
-**gts** with some tweaks
-**mocha + chai** for tests
-**build/** dir not ignored by default.
+**gts** with some tweaks  
+**mocha + chai** for tests  
+**build/** dir not ignored by default  
+**npm publish** automation   
 
 ## Publish
 
