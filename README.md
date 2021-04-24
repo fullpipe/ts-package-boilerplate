@@ -12,6 +12,13 @@ sed -i '' 's/fullpipe/your-github-username/' package.json
 
 Also fix other stuff in `package.json`
 
+That's it. Use it
+
+```
+npm i
+npm run test
+```
+
 
 **gts** with some tweaks
 **mocha + chai** for tests
