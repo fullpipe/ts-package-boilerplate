@@ -2,7 +2,7 @@
 
 ## Setup
 
-
+`build/` dir not ignored by default.
 
 ## Publish
 
