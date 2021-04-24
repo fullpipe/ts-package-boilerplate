@@ -1,3 +1,6 @@
+# If required to ignore build
+# build/
+
 # Logs
 logs
 *.log
