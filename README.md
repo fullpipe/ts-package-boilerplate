@@ -2,7 +2,20 @@
 
 ## Setup
 
-`build/` dir not ignored by default.
+Use this repository as a template. 
+*Sed* package name 
+
+```
+sed -i '' 's/ts-package-boilerplate/am-i-online/' package.json
+sed -i '' 's/fullpipe/your-github-username/' package.json
+```
+
+Also fix other stuff in `package.json`
+
+
+**gts** with some tweaks
+**mocha + chai** for tests
+**build/** dir not ignored by default.
 
 ## Publish
 
