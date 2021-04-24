@@ -30,3 +30,8 @@ npm publish
 ```
 
 `version` command executes `git add ...` and `git push`, see `package.json`
+
+
+## Todo
+
+- [ ] add github actions for tests and build?
